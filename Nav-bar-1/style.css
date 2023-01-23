@@ -64,7 +64,7 @@
     display: none;
 }
 
-.mobile-nav{
+.mobile-nav {
     display: none;
 }
 
@@ -139,9 +139,9 @@
         text-align: center;
     }
 
-        .mobile-nav.is-active{
-            left: 0;
-        }
+    .mobile-nav.is-active {
+        left: 0;
+    }
 
 }
 
